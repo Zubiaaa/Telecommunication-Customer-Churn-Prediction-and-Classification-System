@@ -11,5 +11,3 @@ Step 5: Classification without Feature Selection Using Balancing Technique
 Step 6: Feature Selection and Classification Using Balancing Technique
 
 I have used the same file names as the steps name stated above.
-
-The dataset I have used is the same one provided for the summative assessment in Canvas.
