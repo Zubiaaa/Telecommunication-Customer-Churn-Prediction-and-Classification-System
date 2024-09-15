@@ -1,7 +1,8 @@
 # Telecommunication Customer Churn Prediction and Classification System
 
 ## Background/Scenario:
-You are working as an AI engineer at a reputable organisation. You have a client from the telecommunication sector who is facing a customer churn problem due to fierce competition in the market. Customer churn, also known as ‘customer attrition’, is defined as the rate at which customers stop using an organisation’s services within a certain timeframe. Your client is interested in applying AI techniques to explore and model its customer data. This modelling can help the company to forecast their customers’ behaviour and potentially help reduce the churn rate. You have carried out initial data exploration and found:
+You are working as an AI engineer at a reputable organisation. You have a client from the telecommunication sector who is facing a customer churn problem due to fierce competition in the market. Customer churn, also known as ‘customer attrition’, is defined as the rate at which customers stop using an organisation’s services within a certain timeframe. Your client is interested in applying AI techniques to explore and model its customer data. This modelling can help the company forecast their customers’ behaviour and potentially help reduce the churn rate. You have carried out initial data exploration and found:
+
 ●	The data provided by the company is imbalanced as there are far more retained customers than ‘churn’ customers.
 
 ●	The data contains numeric and nominal attributes.
